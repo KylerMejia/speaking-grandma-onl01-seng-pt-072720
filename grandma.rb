@@ -22,7 +22,7 @@ if speak_to_grandma == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
 
 elsif speak_to_grandma == "Hi Nana, how are you?"
-  puts "HUH?! SPEAK UP, SONNY!"
+  puts phrase
 
 elsif speak_to_grandma == "Hi!"
   puts "HUH?! SPEAK UP, SONNY!"
