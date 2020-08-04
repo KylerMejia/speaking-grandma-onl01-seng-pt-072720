@@ -22,6 +22,8 @@ elsif speak_to_grandma == "Hi Nana, how are you?"
 
 elsif speak_to_grandma == "Hi!"
   puts "HUH?! SPEAK UP, SONNY!"
+  
+elsif speak_to_grandma == ""
 
 
   
