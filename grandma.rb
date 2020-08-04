@@ -24,7 +24,8 @@ elsif speak_to_grandma == "Hi!"
   puts "HUH?! SPEAK UP, SONNY!"
   
 elsif speak_to_grandma == "WHAT DID YOU EAT TODAY?"
-  puts ""
+  puts "NO, NOT SINCE 1938!"
+  
 
 
   
