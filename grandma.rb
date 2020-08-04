@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma("HUH?! SPEAK UP, SONNY!".upcase)
-  puts speak_to_grandma
+  
 end
 
  
