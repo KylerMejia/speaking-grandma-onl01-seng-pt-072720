@@ -27,6 +27,7 @@ elsif speak_to_grandma == "WHAT DID YOU EAT TODAY?"
   puts "NO, NOT SINCE 1938!"
   
 else 
+  puts ""
 
 
   
